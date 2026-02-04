@@ -37,7 +37,7 @@
 		"height": 58,
 		"offset": 120,
 		"order": 6,
-		"offsetX": -546,
+		"offsetX": -550,
 		"offsetY": 31,
 		"enabled": true
 	},
@@ -74,11 +74,11 @@
 		"enabled": true
 	},
 	"navCard": {
-		"width": 320,
+		"width": 326,
 		"height": 311,
 		"order": 2,
-		"offsetX": -542,
-		"offsetY": -308,
+		"offsetX": -552,
+		"offsetY": -311,
 		"enabled": true
 	},
 	"likePosition": {
