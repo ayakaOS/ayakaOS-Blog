@@ -8,11 +8,11 @@
 		"enabled": false
 	},
 	"hiCard": {
-		"width": 338,
-		"height": 272,
+		"width": 377,
+		"height": 280,
 		"order": 1,
-		"offsetX": -181,
-		"offsetY": -220,
+		"offsetX": -204,
+		"offsetY": -160,
 		"enabled": true
 	},
 	"clockCard": {
@@ -33,12 +33,12 @@
 		"enabled": true
 	},
 	"musicCard": {
-		"width": 335,
-		"height": 54,
+		"width": 326,
+		"height": 57,
 		"offset": 120,
 		"order": 6,
-		"offsetX": -179,
-		"offsetY": 96,
+		"offsetX": -543,
+		"offsetY": 33,
 		"enabled": true
 	},
 	"socialButtons": {
@@ -58,11 +58,11 @@
 		"enabled": false
 	},
 	"articleCard": {
-		"width": 338,
-		"height": 150,
+		"width": 342,
+		"height": 163,
 		"order": 8,
-		"offsetX": -548,
-		"offsetY": 136,
+		"offsetX": -551,
+		"offsetY": 119,
 		"enabled": true
 	},
 	"writeButtons": {
@@ -74,8 +74,8 @@
 		"enabled": true
 	},
 	"navCard": {
-		"width": 326,
-		"height": 417,
+		"width": 320,
+		"height": 311,
 		"order": 2,
 		"offsetX": -539,
 		"offsetY": -307,
