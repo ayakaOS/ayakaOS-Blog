@@ -21,7 +21,7 @@
 		"offset": 92,
 		"order": 4,
 		"offsetX": 184,
-		"offsetY": -314,
+		"offsetY": -310,
 		"enabled": true
 	},
 	"calendarCard": {
@@ -59,7 +59,7 @@
 	},
 	"articleCard": {
 		"width": 342,
-		"height": 163,
+		"height": 178,
 		"order": 8,
 		"offsetX": -551,
 		"offsetY": 119,
